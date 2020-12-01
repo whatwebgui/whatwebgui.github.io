@@ -4,3 +4,11 @@ description: Next generation web scanner
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+
+win_exe_url: https://www.google.es
+win_msi_url: https://www.google.es
+mac_exe_url: https://www.google.es
+mac_msi_url: https://www.google.es
+linux_deb_url: https://www.google.es
+linux_msi_url: https://www.google.es
