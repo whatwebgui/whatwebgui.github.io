@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
 
 win_exe_url: https://www.google.es
 win_msi_url: https://www.google.es
-mac_exe_url: https://www.google.es
-mac_msi_url: https://www.google.es
+mac_app_url: https://www.google.es
+mac_dmg_url: https://www.google.es
 linux_deb_url: https://www.google.es
-linux_msi_url: https://www.google.es
+linux_rpm_url: https://www.google.es
