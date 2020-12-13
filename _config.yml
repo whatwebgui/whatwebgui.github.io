@@ -6,9 +6,9 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 
-win_exe_url: https://www.google.es
-win_msi_url: https://www.google.es
-mac_app_url: https://www.google.es
-mac_dmg_url: https://www.google.es
-linux_deb_url: https://www.google.es
-linux_rpm_url: https://www.google.es
+win_exe_url: https://github.com/whatwebgui/WhatWebGUI/
+win_msi_url: https://github.com/whatwebgui/WhatWebGUI/
+mac_app_url: https://github.com/whatwebgui/WhatWebGUI/
+mac_dmg_url: https://github.com/whatwebgui/WhatWebGUI/
+linux_deb_url: https://github.com/whatwebgui/WhatWebGUI/releases/download/v1.0/whatwebgui_1.0-1_amd64.deb
+linux_rpm_url: https://github.com/whatwebgui/WhatWebGUI/
