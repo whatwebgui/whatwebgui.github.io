@@ -3,7 +3,7 @@ layout: default
 ---
 
 # WhatWebGUI
-WhatWebGUI is a cross-platform compatible Java application for Windows 10, Mac OSX and Linux which implements the popular web scanning tool WhatWeb, the next generation web scanner, and provides it with a fresh-looking UI with some interesting features.
+WhatWebGUI is a cross-platform compatible Java-based application for Windows 10, Mac OSX and Linux which implements the front end of the popular web scanning tool WhatWeb, the next generation web scanner, and provides it with a fresh-looking UI with some interesting features.
 
 ## Functionalities
 
