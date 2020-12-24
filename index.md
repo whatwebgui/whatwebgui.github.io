@@ -35,7 +35,7 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt install whatweb
 
 ### Windows 10
 The installation is tougher in Windows.  First of all, the WSL (Windows Subsystem for Linux) needs to be installed, as WhatWeb is not available for the OS developed by Microsoft. To install it, there's [an official tutorial](https://docs.microsoft.com/en-us/windows/wsl/install-win10). However, we decided to prepare some scripts so the installation would require just two clicks for you. The steps are the following:
-1. Download [the zip containing all of the scripts](https://github.com/whatwebgui/ww/raw/main/WSL.zip).
+1. Download [the zip containing all of the scripts](files/WSL.zip).
 2. Extract it (no matter where).
 3. Run **installwsl.bat**
 4. Restart the computer.
@@ -57,4 +57,4 @@ The usage is very intuitive. There's a search bar where you have to type the web
 To make things easier, a tutorial is displayed the first time the program is executed. However, this tutorial can be visited again from the Settings tab.
 
 ## Documentation
-The documentation for the project is available [in the following link](). It is in Basque, so you may prefer talking to us instead ;)
+The documentation for the project is available [in the following link](files/WhatWebGUI_DOCUMENTATION.pdf). It is in Basque, so you may prefer talking to us instead ;)
