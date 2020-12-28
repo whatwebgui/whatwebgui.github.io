@@ -5,7 +5,9 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 
-
+github.zip_url: https://github.com/whatwebgui/WhatWebGUI/zipball/main
+github.tar_url: https://github.com/whatwebgui/WhatWebGUI/tarball/main
+github.repository_url: https://github.com/whatwebgui/WhatWebGUI/
 win_exe_url: https://github.com/whatwebgui/WhatWebGUI/
 win_msi_url: https://github.com/whatwebgui/WhatWebGUI/
 mac_app_url: https://github.com/whatwebgui/WhatWebGUI/
